@@ -1,3 +1,5 @@
+For a better view of this project, please see the Jupyter Notebook file --> [Notebook](https://github.com/emilielimaburke/a_b_test_results/blob/master/Analyzing_AB_Test_Results.ipynb). 
+
 ## Analyze A/B Test Results
 
 ## Table of Contents
